@@ -1,1 +1,3 @@
 # NNFS
+
+Following NNFS book.
